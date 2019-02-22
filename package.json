@@ -1,0 +1,15 @@
+{
+  "name": "lambda-bandcamp",
+  "version": "1.0.0",
+  "description": "(unofficial) Bandcamp API for AWS Lambda",
+  "main": "index.js",
+  "dependencies": {
+    "node-bandcamp": "0.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adrian Mejias",
+  "license": "MIT"
+}
