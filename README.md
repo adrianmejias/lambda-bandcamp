@@ -1,9 +1,10 @@
+
 # (unofficial) Bandcamp API for AWS Lambda
 
 ## Installation
 * `npm install`
 * compress files into zip
-* create a function in AWS Lambda
+* create a function in AWS Lambda (node)
 * upload to AWS Lambda
 * setup AWS API Gateway
 
@@ -67,3 +68,6 @@ JSON Response:
     }
 }
 ```
+
+## Thanks
+* [Jake Marsh](https://github.com/jakemmarsh) -> [node-bandcamp](https://github.com/jakemmarsh/node-bandcamp)
