@@ -1,7 +1,7 @@
 
 # (unofficial) Bandcamp API for AWS Lambda
 
-## Installation
+## Getting Started
 * `npm install`
 * compress files into zip
 * create a function in AWS Lambda (node)
